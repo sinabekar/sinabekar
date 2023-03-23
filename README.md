@@ -6,7 +6,7 @@ I'm Sina Bekar
 <a href="https://www.twitter.com/kocknis" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/kocknis?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/bekarsina" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/bekarsina?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  src="https://img.shields.io/github/followers/kocknis?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills
 <p align="left">
