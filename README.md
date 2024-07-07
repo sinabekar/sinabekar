@@ -3,10 +3,10 @@ I'm Sina Bekar
 -----------------------------
 
 
-<a href="https://www.twitter.com/kocknis" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/kocknis?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/kocknis" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/kocknis?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.x.com/sinabekar" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/sinabekar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.github.com/sinabekar" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/sinabekar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills
 <p align="left">
@@ -24,6 +24,6 @@ I'm Sina Bekar
 ### Socials
                   
 <p align="left">
-    <a href="https://www.instagram.com/kocknis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/bekarsina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/kocknis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+    <a href="https://www.instagram.com/sinabekar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/sinabekar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/sinabekar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
